@@ -1,2 +1,2 @@
 # Projeto_Fazenda
- Projeto feito para disciplina de LAB_PROG II da UFRPE
+ Projeto feito para a disciplina de Laboratório de Programação II. Professor Gustavo Calou. UFRPE
